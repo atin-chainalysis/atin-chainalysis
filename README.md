@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atin-chainalysis
+- 👋 Hi, I’m Atin
 - 👀 I’m interested in DeFi, machine learning and data pipelining.
 - 🌱 I’m currently learning about Ethereum and other DeFi protocols.
 - 📫 How to reach me: atin.ganti@chainalysis.com
